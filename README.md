@@ -7,7 +7,7 @@
 
 
 ## 🌟 Projects
-- **[Project DVC](https://github.com/Orgfet/DVC):** A brief description of what this project does and why it's interesting.
+- **[Project DVC](https://github.com/Orgfet/DVC):** DVC was build to be a Door Video Cam but can be used as a generall Networkcam it will run locally on your own Webserver.
 
 
 ## 📫 How to reach me
