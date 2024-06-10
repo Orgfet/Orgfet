@@ -1,16 +1,27 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Orgfet/Orgfet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi there! I'm Orgfet, a software developer . 
 
-Here are some ideas to get you started:
+##  Technologies & Tools
+- **Languages:** Python, JavaScript, Java,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌟 Projects
+- **[Project DVC](https://github.com/Orgfet/DVC):** A brief description of what this project does and why it's interesting.
+
+
+## 📫 How to reach me
+- **Email:** info@orgfet.de
+
+
+## 🌍 Languages
+- **English:** Fuent proficiency
+- **German:** Native or fluent proficiency
+
+
+## 🌱 What I'm currently learning
+- Shell && Bash skripting
+- Java
+
+
+Thank you for visiting my GitHub profile! Feel free to check out my repositories and get in touch if you’d like to collaborate on a project or just say hi!
