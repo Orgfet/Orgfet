@@ -1,9 +1,9 @@
 # About Me
 
- Hi there! I'm Orgfet, a software developer . 
+ Hi there! I'm Orgfet, a software developer. 
 
 ##  Technologies & Tools
-- **Languages:** Python, JavaScript, Java,
+- **Languages:** Python, JavaScript, Java
 
 
 ## 🌟 Projects
@@ -15,13 +15,10 @@
 
 
 ## 🌍 Languages
-- **English:** Fuent proficiency
-- **German:** Native or fluent proficiency
+- **English:** Fluent 
+- **German:** Native
 
 
 ## 🌱 What I'm currently learning
-- Shell && Bash skripting
+- Shell && Bash scripting
 - Java
-
-
-Thank you for visiting my GitHub profile! Feel free to check out my repositories and get in touch if you’d like to collaborate on a project or just say hi!
