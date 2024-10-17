@@ -6,19 +6,23 @@
 - **Languages:** Python, JavaScript, Java
 
 
-## 🌟 Projects
+##  Projects
 - **[Project DVC](https://github.com/Orgfet/DVC):** DVC was build to be a Door Video Cam but can be used as a generall Networkcam it will run locally on your own Webserver.
 
 
-## 📫 How to reach me
+##  How to reach me
 - **Email:** info@orgfet.de
 
 
-## 🌍 Languages
+##  Languages
 - **English:** Fluent 
 - **German:** Native
 
+## My Programming Languages
+- **Python**
+- **Java**
+- **JavaScript**
 
-## 🌱 What I'm currently learning
-- Shell && Bash scripting
-- Java
+
+##  What I'm currently learning
+- C
