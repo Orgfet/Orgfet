@@ -18,11 +18,6 @@
 - **English:** Fluent 
 - **German:** Native
 
-## My Programming Languages
-- **Python**
-- **Java**
-- **JavaScript**
-
 
 ##  What I'm currently learning
 - C
