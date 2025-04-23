@@ -3,7 +3,7 @@
  Hi there! I'm Orgfet, a software developer. 
 
 ##  Technologies & Tools
-- **Languages:** Python, JavaScript, Java
+- **Languages:** Python, JavaScript, Java, C
 
 
 ##  Projects
@@ -21,5 +21,5 @@
 
 
 ##  What I'm currently learning
-- **C**
+- **C#**
 - **GoDot**
