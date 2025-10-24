@@ -8,7 +8,8 @@
 
 ##  Projects
 - **[Project DVC](https://github.com/Orgfet/DVC):** DVC was build to be a Door Video Cam but can be used as a generall Networkcam it will run locally on your own Webserver.
-- **Stories of Nortram** A game that is currently in Development.
+- **Stories of Nortram** A game that is currently on hold.
+- **Project Grimm** A game that is currently in production
 
 
 ##  How to reach me
@@ -21,5 +22,4 @@
 
 
 ##  What I'm currently learning
-- **C#**
 - **GoDot**
