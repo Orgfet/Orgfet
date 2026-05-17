@@ -1,9 +1,9 @@
 # About Me
 
- Hi there! I'm Orgfet, a software developer. 
+ Hi there! I'm Orgfet.
 
 ##  Technologies & Tools
-- **Languages:** Python, JavaScript, Java, C
+- **Languages:** Java, C#
 
 
 ##  Projects
@@ -12,14 +12,6 @@
 - **[Project Grimm](https://github.com/GrimmGroup/ProjectGrimm)** A game that is currently in production
 
 
-##  How to reach me
-- **Email:** info@orgfet.de
-
-
 ##  Languages
 - **English:** Fluent 
 - **German:** Native
-
-
-##  What I'm currently learning
-- **GoDot**
